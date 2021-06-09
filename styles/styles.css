@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=B612&family=Montserrat:wght@400;600;700;800;900&family=Sacramento&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "b612",sans-serif;
+    text-align: center;
+}
+
+.top-container{
+    background-color: #c5e3f6;
+    padding: 100px;
+    position: relative;
+}
+
+.my-name{
+    font-family: "sacramento", sans-serif;
+    font-size: 4rem;
+    color: #38b0de;
+}
+
+.description{
+    color: #38b0de;
+    font-size: 1.2rem;
+}
+
+.top-cloud{
+    position: absolute;
+    right:300px ;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left:300px ;
+    bottom: 300px;
+}
+
+.profile{
+    width: 40%;
+    margin: 100px auto;
+    line-height: 2;
+}
+
+.user-img{
+    width: 40%;
+}
+
+.profile-name{
+    font-family: 'Montserrat',sans-serif;
+    color: #38b0de;
+}
+.skills-row{
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-heading{
+    font-family: 'Montserrat',sans-serif;
+    color: #38b0de;
+}
+
+.chillies{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-me{
+    width: 40%;
+    margin: 100px auto 0 auto;
+    line-height: 2;
+}
+
+.botton{
+    text-decoration: none;
+    background-color: #38b0de;
+    border: 2px solid #38b0de;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 16px;
+}
+
+.botton:hover{
+    background-color: #fff;
+    color:#38b0de ;
+    margin-top: 50px;
+}
+
+.contact-p{
+    margin-bottom: 50px;
+}
+
+.bottom-section{
+    background-color:#38b0de ;
+    padding:50px 0 ;
+    margin-top: 50px;
+}
+
+.footer-link{
+    margin: 20px 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.copyright{
+    color:#fff ;
+    margin-top: 50px;
+}
+
+
+
